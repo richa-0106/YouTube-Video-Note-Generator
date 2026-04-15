@@ -1,0 +1,57 @@
+# ========================
+# Python (Backend)
+# ========================
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Data / temp files
+backend/data/
+backend/db/
+*.mp3
+*.wav
+
+# ========================
+# VS Code
+# ========================
+.vscode/
+
+# ========================
+# Node.js (Frontend + Electron)
+# ========================
+node_modules/
+frontend/node_modules/
+electron/node_modules/
+
+# Build folders
+dist/
+build/
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Environment variables
+# ========================
+.env
+
+# ========================
+# Jupyter / Misc
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# Git
+# ========================
+.git/
